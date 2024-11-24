@@ -1,1 +1,3 @@
 Added DemoBranch1 file in branch "DemoBranch1".
+
+Conflict!
